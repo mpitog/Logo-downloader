@@ -1,10 +1,10 @@
-# Sportsbook Logo Downloader
+# Logo Downloader
 
 ## Overview
-This script searches for sportsbook logos using Clearbit's logo service, downloads them, and compresses them into a ZIP file. It automates the retrieval of logos for a predefined list of sportsbooks.
+This script searches for sportsbook logos using Clearbit's logo service, downloads them, and compresses them into a ZIP file. It automates the retrieval of logos for a predefined list of sportsbooks (but can be used for any logos).
 
 ## Features
-- Fetches logos from **Clearbit** based on sportsbook names.
+- Fetches logos from **Clearbit** based on names.
 - Downloads logos and saves them in a local folder.
 - Zips all downloaded logos into a single archive for easy access.
 
